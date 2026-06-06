@@ -2,7 +2,7 @@
 
 A simple Python utility to greet users.
 
-## Instalation
+## Installation
 
 No dependencies required. Just run:
 
@@ -10,7 +10,7 @@ No dependencies required. Just run:
 python greet.py
 ```
 
-## Usuage
+## Usage
 
 ```python
 from greet import greet
